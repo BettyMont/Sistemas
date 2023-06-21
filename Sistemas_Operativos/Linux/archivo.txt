@@ -1,0 +1,1 @@
+Sistema Operartivo de codigo abierto basado en Unix que se utiliza en una amplia varoedad de dispositivos.
